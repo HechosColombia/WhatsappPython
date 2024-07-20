@@ -56,7 +56,7 @@ The `nltk.download('vader_lexicon')` line in the scripts downloads a sentiment l
 I hope this README provides a clear understanding of the project and its functionalities. Feel free to explore the code and adapt it to your specific requirements!
 
 
-#ESPAÑOL
+# ESPAÑOL
 ## Analizador de Chats de WhatsApp
 
 Este repositorio contiene scripts Python para analizar datos exportados de tus chats de WhatsApp.
